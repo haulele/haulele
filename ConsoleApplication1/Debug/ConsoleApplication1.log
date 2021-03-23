@@ -1,4 +1,2 @@
-﻿  Bai4b,5.cpp
-e:\consoleapplication1\consoleapplication1\bai4b,5.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  ConsoleApplication1.vcxproj -> E:\ConsoleApplication1\Debug\ConsoleApplication1.exe
-  ConsoleApplication1.vcxproj -> E:\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
+﻿  Source.cpp
+e:\untitled folder\consoleapplication1\consoleapplication1\source.cpp(22): error C4700: uninitialized local variable 'a' used

@@ -15,19 +15,37 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Bai1.cpp">
+    <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Bai3.cpp">
+    <ClCompile Include="Source1.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Bai2.cpp">
+    <ClCompile Include="Source2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Bai4a.cpp">
+    <ClCompile Include="Source3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Bai4b,5.cpp">
+    <ClCompile Include="Source4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source6.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source7.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source8.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source9.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source11.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
